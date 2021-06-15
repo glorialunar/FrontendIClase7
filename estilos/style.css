@@ -1,0 +1,35 @@
+.estudio{
+    padding-left: 80px;
+    margin-top: 1px;
+}
+
+h1{
+    text-align: center;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 29,64px;
+    
+}
+
+h2{
+    background-color:#C4C4C4;
+    color: #005677;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 16,94px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color:#25b0e7;
+
+}
+
+
+.header_background{
+    background: #E6E6E6;
+}
+
